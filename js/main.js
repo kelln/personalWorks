@@ -1,15 +1,7 @@
 $(function(){
-/*	var i = 0;
-	var $li = $('.')*/
 	var i=0;
-
 	var $btn = $('.section-btn li'),
-
 	$wrap = $('.section-container');
-
-
-
-
 
 	/*当前页面赋值*/
 
@@ -26,7 +18,6 @@ $(function(){
 			i=0;
 		};
 	};
-
 
 
 	/*页面滑动*/
